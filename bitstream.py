@@ -1,2 +1,0 @@
-class BitStream:
-    source: bytes
